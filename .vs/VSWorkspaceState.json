@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Project1",
-    "\\Project1\\Project1"
+    "\\Project1\\Project1",
+    "\\Project1\\Project1\\Headers"
   ],
-  "SelectedNode": "\\Project1\\Project1\\DrawMap.cpp",
+  "SelectedNode": "\\Project1\\Project1\\Headers\\Pacman.hpp",
   "PreviewInSolutionExplorer": false
 }
