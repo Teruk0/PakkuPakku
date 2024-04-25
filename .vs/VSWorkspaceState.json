@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Project1",
-    "\\Project1\\Project1",
-    "\\Project1\\Project1\\Headers"
+    "\\Project1\\Project1"
   ],
-  "SelectedNode": "\\Project1\\Project1\\Headers\\Pacman.hpp",
+  "SelectedNode": "\\Project1\\Project1\\MapCollision.cpp",
   "PreviewInSolutionExplorer": false
 }
