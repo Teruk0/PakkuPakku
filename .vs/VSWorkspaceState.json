@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Project1",
-    "\\Project1\\Project1"
+    "\\Project1\\Project1",
+    "\\Project1\\Project1\\Resources",
+    "\\Project1\\Project1\\Resources\\Images"
   ],
-  "SelectedNode": "\\Project1\\Project1\\GhostManager.cpp",
+  "SelectedNode": "\\Project1\\Project1\\Resources\\Images\\Font.png",
   "PreviewInSolutionExplorer": false
 }
