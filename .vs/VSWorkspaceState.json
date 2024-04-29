@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ConsoleApplication1",
+    "\\ConsoleApplication1\\x64",
+    "\\ConsoleApplication1\\x64\\Debug",
     "\\Project1",
+    "\\Project1\\Debug",
     "\\Project1\\Project1",
-    "\\Project1\\Project1\\Resources",
-    "\\Project1\\Project1\\Resources\\Images"
+    "\\Project1\\Project1\\Debug",
+    "\\Project1\\Project1\\Debug\\Project1.tlog",
+    "\\Project1\\Project1\\Headers"
   ],
-  "SelectedNode": "\\Project1\\Project1\\Resources\\Images\\Font.png",
+  "SelectedNode": "\\Project1\\Project1\\Headers\\ConvertSketch.hpp",
   "PreviewInSolutionExplorer": false
 }
